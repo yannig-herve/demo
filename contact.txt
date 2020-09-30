@@ -1,2 +1,2 @@
 firstname,lastname,email
-Jean,Bob,keannf@example.com
+Jean,Bob2,keannf@example.com
