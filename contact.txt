@@ -1,2 +1,2 @@
-firstname,lastname,email
-Jean,Bob2444,keannf@example.com
+firstname,lastname,email,mobile_phone_number,externalid
+Jean,Bob2444,keannf@example.com,+336082,4
